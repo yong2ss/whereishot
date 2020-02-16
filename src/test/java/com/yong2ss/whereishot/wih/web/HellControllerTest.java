@@ -1,4 +1,4 @@
-package com.yong2ss.whereishot.wih;
+package com.yong2ss.whereishot.wih.web;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

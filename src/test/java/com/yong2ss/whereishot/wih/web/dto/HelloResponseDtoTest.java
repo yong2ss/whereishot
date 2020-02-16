@@ -1,6 +1,5 @@
-package com.yong2ss.whereishot.wih.dto;
+package com.yong2ss.whereishot.wih.web.dto;
 
-import com.yong2ss.whereishot.wih.web.dto.HelloResponseDto;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
